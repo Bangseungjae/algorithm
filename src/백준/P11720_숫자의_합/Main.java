@@ -5,7 +5,7 @@ package 백준.P11720_숫자의_합;
  * 자료구조 문제입니다.
  */
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
 
