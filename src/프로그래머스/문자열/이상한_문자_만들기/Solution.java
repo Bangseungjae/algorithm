@@ -1,7 +1,5 @@
 package 프로그래머스.문자열.이상한_문자_만들기;
 
-import java.util.Arrays;
-
 public class Solution {
 
 
