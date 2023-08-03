@@ -13,3 +13,12 @@ b
 2src/프로그래머스/시저_암호/Solution.java,2/9/29f5a8503ef8e6d10579da9c4cd6cad2726ff182
 ]
 -src/프로그래머스/우테캠/_1/Main.java,e/4/e444daaba413aec479eaed532ed614c85c9c2541
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+^
+.src/백준/P12891_DNA_비밀번호/explain.txt,7/c/7ce805c9d043fb195b9b1e0a24d4d80f9d7ba60d
+]
+-src/프로그래머스/우테캠/_4/Main.java,c/3/c3dd87f0273e3465841652768c2c4a6d177379f8
+|
+Lsrc/프로그래머스/자연수_뒤집어_배열로_만들기/Solution.java,8/0/80265cf8d341158aa4b6be99f7108b3ab562a574
