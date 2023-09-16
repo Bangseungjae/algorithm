@@ -1,6 +1,4 @@
 
-Q
-!src/백준/P1546_평균/Main.java,e/4/e44072b33da111240e01d44cdd3ff593efe40f72
 `
 0src/백준/P11659_구간_합_구하기/Main.java,a/6/a65752de0c1811a9d1877375f361176831d8b7b7
 Y
@@ -22,3 +20,9 @@ b
 -src/프로그래머스/우테캠/_4/Main.java,c/3/c3dd87f0273e3465841652768c2c4a6d177379f8
 |
 Lsrc/프로그래머스/자연수_뒤집어_배열로_만들기/Solution.java,8/0/80265cf8d341158aa4b6be99f7108b3ab562a574
+l
+<src/프로그래머스/교점에_별_만들기/Solution.java,6/7/67ed84ed6d0adb36586210a3043c2e5547af3baa
+G
+src/codility/Exam1.java,4/3/4378cebde7b33aa59c1f390fccbbfdcae802af4b
+y
+Isrc/프로그래머스/문자열/이상한_문자_만들기/Solution.java,2/c/2c1d6004245f19b32b4cff9a9ffbf380f78a640f
