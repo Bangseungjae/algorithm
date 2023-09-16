@@ -1,4 +1,4 @@
-package 프로그래머스.문자열.하노이탑;
+package 프로그래머스.재귀.하노이탑;
 
 import java.util.ArrayList;
 import java.util.List;
