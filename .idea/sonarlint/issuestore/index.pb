@@ -3,10 +3,6 @@
 0src/백준/P11659_구간_합_구하기/Main.java,a/6/a65752de0c1811a9d1877375f361176831d8b7b7
 Y
 )src/백준/P11720_숫자의_합/Main.java,5/7/5773dc0b5c095933e00c58977d3123cb0cff8588
-P
- src/백준/P1940주몽/Main.java,0/6/062ea2cb882654120ec036164d0555b242fc42e2
-\
-,src/백준/P12891_DNA_비밀번호/Main.java,6/b/6b486293f6e4ebca5e3ac93ee05b8d314a041d32
 b
 2src/프로그래머스/시저_암호/Solution.java,2/9/29f5a8503ef8e6d10579da9c4cd6cad2726ff182
 ]
@@ -26,3 +22,11 @@ G
 src/codility/Exam1.java,4/3/4378cebde7b33aa59c1f390fccbbfdcae802af4b
 y
 Isrc/프로그래머스/문자열/이상한_문자_만들기/Solution.java,2/c/2c1d6004245f19b32b4cff9a9ffbf380f78a640f
+l
+<src/프로그래머스/문자열/문자열압축/Solution.kt,7/4/7476cd1ccce3fd73b4adef6f413b4d24ac65ce2a
+q
+Asrc/프로그래머스/문자열/_3진법_뒤집기/Solution.java,1/3/13e2019f78ddf097ef2e83c7a41567f77e04e3d9
+m
+=src/sql_kit/조건에_맞는_저자_리스트_출력/data.sql,0/9/09b638d3b9b1f259d55c1efb2b976f61f99092d0
+T
+$src/백준/P1991트리순회/Node.kt,7/4/74f928b8ec1a72fd2875b5fd00e43ef3ecfa40bf
