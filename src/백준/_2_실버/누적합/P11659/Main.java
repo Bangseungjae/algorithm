@@ -1,4 +1,4 @@
-package 백준.실버.누적합.P11659;
+package 백준._2_실버.누적합.P11659;
 
 import java.io.BufferedReader;
 import java.io.IOException;

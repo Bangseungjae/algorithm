@@ -1,4 +1,4 @@
-package 백준.실버.슬라이딩윈도우.P12891;
+package 백준._2_실버.슬라이딩윈도우.P12891;
 
 import java.io.BufferedReader;
 import java.io.IOException;

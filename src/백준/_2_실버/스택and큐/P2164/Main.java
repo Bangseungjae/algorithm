@@ -1,4 +1,4 @@
-package 백준.실버.스택and큐.P2164;
+package 백준._2_실버.스택and큐.P2164;
 
 import java.io.BufferedReader;
 import java.io.IOException;

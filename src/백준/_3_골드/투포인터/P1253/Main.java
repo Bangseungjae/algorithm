@@ -1,4 +1,4 @@
-package 백준.골드.투포인터.P1253;
+package 백준._3_골드.투포인터.P1253;
 
 import java.io.BufferedReader;
 import java.io.IOException;

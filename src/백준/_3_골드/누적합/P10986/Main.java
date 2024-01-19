@@ -1,4 +1,4 @@
-package 백준.골드.누적합.P10986;
+package 백준._3_골드.누적합.P10986;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package 백준.브론즈.달핑이는올라가고싶다;
+package 백준._1_브론즈.달핑이는올라가고싶다;
 
 import java.util.Scanner;
 

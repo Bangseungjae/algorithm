@@ -1,4 +1,4 @@
-package 백준.실버.투포인터.P2018;
+package 백준._2_실버.투포인터.P2018;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package 백준.실버.투포인터.P1940;
+package 백준._2_실버.투포인터.P1940;
 
 import java.io.BufferedReader;
 import java.io.IOException;
