@@ -1,4 +1,4 @@
-package 백준._1_브론즈.정렬.P1377;
+package 백준._3_골드.정렬.P1377;
 
 import java.io.BufferedReader;
 import java.io.IOException;
