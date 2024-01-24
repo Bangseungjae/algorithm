@@ -1,4 +1,4 @@
-package 백준._4_플래티넘.P11003;
+package 백준._4_플래티넘.스택And큐.P11003;
 
 import java.io.*;
 import java.util.LinkedList;
