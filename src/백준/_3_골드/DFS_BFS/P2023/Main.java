@@ -1,4 +1,4 @@
-package 백준._3_골드.DFS.P2023;
+package 백준._3_골드.DFS_BFS.P2023;
 
 import java.io.BufferedReader;
 import java.io.IOException;
