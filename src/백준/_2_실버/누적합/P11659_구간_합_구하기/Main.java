@@ -1,4 +1,4 @@
-package 백준.P11659_구간_합_구하기;
+package 백준._2_실버.누적합.P11659_구간_합_구하기;
 
 import java.io.*;
 import java.util.*;

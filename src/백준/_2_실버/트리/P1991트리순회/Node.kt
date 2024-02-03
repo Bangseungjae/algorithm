@@ -1,4 +1,4 @@
-package 백준.P1991트리순회
+package 백준._2_실버.트리.P1991트리순회
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

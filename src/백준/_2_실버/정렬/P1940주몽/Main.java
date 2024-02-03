@@ -1,4 +1,4 @@
-package 백준.P1940주몽;
+package 백준._2_실버.정렬.P1940주몽;
 
 import java.io.*;
 import java.util.*;

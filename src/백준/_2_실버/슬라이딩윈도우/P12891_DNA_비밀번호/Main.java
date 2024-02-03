@@ -1,4 +1,4 @@
-package 백준.P12891_DNA_비밀번호;
+package 백준._2_실버.슬라이딩윈도우.P12891_DNA_비밀번호;
 
 import java.io.*;
 import java.util.*;
