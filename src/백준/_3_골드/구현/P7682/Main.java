@@ -34,8 +34,7 @@ public class Main {
             // 가로로 맞는지 check
             for (int i = 0; i < 3; i++) {
                 if (board[i * 3] == board[(i * 3) + 1] &&
-                        board[(i * 3) + 1] == board[(i * 3) + 2] &&
-                        board[i * 3] != '.') {
+                        board[(i * 3) + 1] == board[(i * 3) + 2]) {
                     if (board[i * 3] == 'O') oWin = true;
                     if (board[i * 3] == 'X') xWin = true;
                 }
@@ -44,8 +43,7 @@ public class Main {
             // 세로로 check
             for (int i = 0; i < 3; i++) {
                 if (board[i] == board[i + 3] &&
-                        board[i] == board[i + 6] &&
-                        board[i] != '.') {
+                        board[i] == board[i + 6]) {
                     if (board[i] == 'O') oWin = true;
                     if (board[i] == 'X') xWin = true;
                 }
