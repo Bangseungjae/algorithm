@@ -11,12 +11,16 @@ class Solution {
     fun solution(maps: Array<String>): Int {
         repeat(maps.size) { x ->
             repeat(maps[0].length) { y ->
-                if (maps[x][y] == 'S') {
-                    startPair = Pair(x, y)
-                } else if (maps[x][y] == 'L') {
-                    leverPair = Pair(x, y)
-                } else if (maps[x][y] == 'E') {
-                    exitPair = Pair(x, y)
+                when {
+                    maps[x][y] == 'S' -> {
+                        startPair = Pair(x, y)
+                    }
+                    maps[x][y] == 'L' -> {
+                        leverPair = Pair(x, y)
+                    }
+                    maps[x][y] == 'E' -> {
+                        exitPair = Pair(x, y)
+                    }
                 }
             }
         }
