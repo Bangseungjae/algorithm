@@ -5,9 +5,9 @@ import java.util.*
 class Solution {
     val a = arrayOf(0, 0, 1, -1)
     val b = arrayOf(1, -1, 0, 0)
-    var leverPair = Pair(0, 0)
-    var exitPair = Pair(0, 0)
-    var startPair = Pair(0, 0)
+    private var leverPair = Pair(0, 0)
+    private var exitPair = Pair(0, 0)
+    private var startPair = Pair(0, 0)
     fun solution(maps: Array<String>): Int {
         repeat(maps.size) { x ->
             repeat(maps[0].length) { y ->
