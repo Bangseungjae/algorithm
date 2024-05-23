@@ -20,7 +20,7 @@ class Solution {
                 }
             }
         }
-        fun dfs(start: Pair<Int, Int>, end: Pair<Int, Int>, map :Array<String>): Int {
+        fun bfs(start: Pair<Int, Int>, end: Pair<Int, Int>, map :Array<String>): Int {
             val visited = Array(map.size) {IntArray(map[0].length) {-1}}
             visited[start.first][start.second] = 0
             val queue: Queue<Pair<Int, Int>> = LinkedList()
@@ -47,8 +47,8 @@ class Solution {
             return -1
         }
 
-        val lever = dfs(startPair, leverPair, maps)
-        val exit = dfs(leverPair, exitPair, maps)
+        val lever = bfs(startPair, leverPair, maps)
+        val exit = bfs(leverPair, exitPair, maps)
         return if (lever != -1 && exit != -1) {
             lever + exit
         } else {
