@@ -1,4 +1,4 @@
-package 백준._2_실버.BFS.P1260;
+package 백준._2_실버.그래프.BFS.P1260;
 
 import java.io.*;
 import java.util.*;

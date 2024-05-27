@@ -1,4 +1,4 @@
-package 백준._2_실버.BFS.P2178;
+package 백준._2_실버.그래프.BFS.P2178;
 
 import java.io.BufferedReader;
 import java.io.IOException;

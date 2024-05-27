@@ -1,4 +1,4 @@
-package 백준._2_실버.DFS.P11724;
+package 백준._2_실버.그래프.DFS.P11724;
 
 import java.io.BufferedReader;
 import java.io.IOException;
