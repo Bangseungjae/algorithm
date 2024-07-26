@@ -1,4 +1,4 @@
-package 백준._1_브론즈.정수론.유클리드호제법.P1934
+package 백준._1_브론즈.수학.정수론.유클리드호제법.P1934
 
 fun main()  = with(System.`in`.bufferedReader()){
     val list: MutableList<Pair<Int, Int>> = mutableListOf()

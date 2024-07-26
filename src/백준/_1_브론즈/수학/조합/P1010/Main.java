@@ -1,4 +1,4 @@
-package 백준._1_브론즈.조합.P1010;
+package 백준._1_브론즈.수학.조합.P1010;
 
 import java.io.BufferedReader;
 import java.io.IOException;
