@@ -27,7 +27,8 @@ fun findOrder(N: Int, r: Int, c: Int): Int {
 
         // 현재 사분면 이전의 모든 칸 수를 더함
         order += size * size * quadrant
-        println("size * size * quadrant: ${(size * size * quadrant).toString().padEnd(7)} || size: ${size.toString().padEnd(4)} quadrant: $quadrant")
+        println("size * size * quadrant: ${(size * size * quadrant).toString().padEnd(7)} || size: ${size.toString().padEnd(4)} quadrant: $quadrant" +
+                "  currentR: ${currentR.toString().padEnd(5)} currentC: ${currentC.toString().padEnd(5)} order: $order")
 
         // 현재 위치 업데이트
         when (quadrant) {
