@@ -1,4 +1,4 @@
-package 프로그래머스.데브시스터즈.exam1;
+package 프로그래머스.devs.exam1;
 
 public class Main {
     public static void main(String[] args) {
