@@ -1,4 +1,4 @@
-package valid_palindrome;
+package leetcode.string._125_valid_palindrome;
 
 class Solution {
     public boolean isPalindrome(String s) {

@@ -1,4 +1,4 @@
-package valid_palindrome
+package leetcode.string._125_valid_palindrome
 
 fun isPalindrome(s: String): Boolean {
     var start = 0
